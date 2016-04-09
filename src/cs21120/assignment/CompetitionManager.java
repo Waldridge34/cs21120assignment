@@ -21,7 +21,8 @@ public class CompetitionManager {
         this.manager = manager;
     }
     
-    /** Runs the competition, printing the tree before, then pairs of teams and waiting for input of 
+ 
+	/** Runs the competition, printing the tree before, then pairs of teams and waiting for input of 
      * the results between each pair. The tree is printed again at the end of the competition.
      * 
      * @param listFileName the name of the file contain the list of teams
